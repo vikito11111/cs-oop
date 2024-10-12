@@ -1,0 +1,7 @@
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\bin\Debug\_05.Restaurant.exe.config
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\bin\Debug\_05.Restaurant.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\bin\Debug\_05.Restaurant.pdb
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\obj\Debug\05. Restaurant.csproj.AssemblyReference.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\obj\Debug\05. Restaurant.csproj.CoreCompileInputs.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\obj\Debug\_05.Restaurant.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\05. Restaurant\obj\Debug\_05.Restaurant.pdb

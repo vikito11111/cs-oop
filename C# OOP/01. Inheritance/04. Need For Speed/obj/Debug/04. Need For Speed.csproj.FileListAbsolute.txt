@@ -1,0 +1,7 @@
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\bin\Debug\_04.Need_For_Speed.exe.config
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\bin\Debug\_04.Need_For_Speed.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\bin\Debug\_04.Need_For_Speed.pdb
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\obj\Debug\04. Need For Speed.csproj.AssemblyReference.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\obj\Debug\04. Need For Speed.csproj.CoreCompileInputs.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\obj\Debug\_04.Need_For_Speed.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Exercise\04. Need For Speed\obj\Debug\_04.Need_For_Speed.pdb
