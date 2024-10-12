@@ -1,0 +1,14 @@
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe.config
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.pdb
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csproj.AssemblyReference.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.pdb
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe.config
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.exe
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\bin\Debug\_01.Single_Inheritance.pdb
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csproj.AssemblyReference.cache
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\01. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.exe
+D:\Coding\Softuni - Projects\C#\04. C# OOP\02. Inheritance\Lab\01. Single Inheritance\obj\Debug\_01.Single_Inheritance.pdb
