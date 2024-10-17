@@ -1,0 +1,7 @@
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\bin\Debug\_07.Military_Elite.exe.config
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\bin\Debug\_07.Military_Elite.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\bin\Debug\_07.Military_Elite.pdb
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\obj\Debug\07. Military Elite.csproj.AssemblyReference.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\obj\Debug\07. Military Elite.csproj.CoreCompileInputs.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\obj\Debug\_07.Military_Elite.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\04. Interfaces and Abstraction\Exercise\07. Military Elite\obj\Debug\_07.Military_Elite.pdb
