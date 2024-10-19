@@ -1,7 +1,0 @@
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\bin\Debug\_02.Animals.exe.config
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\bin\Debug\_02.Animals.exe
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\bin\Debug\_02.Animals.pdb
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\obj\Debug\02. Animals.csproj.AssemblyReference.cache
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\obj\Debug\02. Animals.csproj.CoreCompileInputs.cache
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\obj\Debug\_02.Animals.exe
-D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Lab\02. Animals\obj\Debug\_02.Animals.pdb
