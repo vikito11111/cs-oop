@@ -1,0 +1,7 @@
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\bin\Debug\_02.Vehicles_Extension.exe.config
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\bin\Debug\_02.Vehicles_Extension.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\bin\Debug\_02.Vehicles_Extension.pdb
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\obj\Debug\02. Vehicles Extension.csproj.AssemblyReference.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\obj\Debug\02. Vehicles Extension.csproj.CoreCompileInputs.cache
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\obj\Debug\_02.Vehicles_Extension.exe
+D:\SoftUni\00. SoftUni - Coding\04. C# OOP\05. Polymorphism\Exercise\02. Vehicles Extension\obj\Debug\_02.Vehicles_Extension.pdb
