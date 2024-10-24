@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\bin\Debug\net8.0\05. Cards.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\bin\Debug\net8.0\05. Cards.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\bin\Debug\net8.0\05. Cards.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\bin\Debug\net8.0\05. Cards.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\bin\Debug\net8.0\05. Cards.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\refint\05. Cards.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\05. Cards.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\05. Cards\05. Cards\obj\Debug\net8.0\ref\05. Cards.dll
