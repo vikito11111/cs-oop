@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\bin\Debug\net8.0\01. Exception Handling.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\bin\Debug\net8.0\01. Exception Handling.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\bin\Debug\net8.0\01. Exception Handling.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\bin\Debug\net8.0\01. Exception Handling.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\bin\Debug\net8.0\01. Exception Handling.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\refint\01. Exception Handling.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\01. Exception Handling.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\05. Exception Handling\01. Exception Handling\01. Exception Handling\obj\Debug\net8.0\ref\01. Exception Handling.dll
