@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\bin\Debug\net8.0\05. Messaging Application.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\bin\Debug\net8.0\05. Messaging Application.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\bin\Debug\net8.0\05. Messaging Application.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\bin\Debug\net8.0\05. Messaging Application.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\bin\Debug\net8.0\05. Messaging Application.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\refint\05. Messaging Application.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\05. Messaging Application.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\05. Messaging Application\05. Messaging Application\obj\Debug\net8.0\ref\05. Messaging Application.dll
