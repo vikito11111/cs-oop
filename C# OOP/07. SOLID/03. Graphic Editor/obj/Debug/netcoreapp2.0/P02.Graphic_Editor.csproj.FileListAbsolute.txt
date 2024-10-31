@@ -1,0 +1,13 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.runtimeconfig.dev.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\bin\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.AssemblyReference.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\07. SOLID\03. Graphic Editor\obj\Debug\netcoreapp2.0\P02.Graphic_Editor.genruntimeconfig.cache
