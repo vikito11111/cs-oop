@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\bin\Debug\net8.0\03. Command Pattern.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\bin\Debug\net8.0\03. Command Pattern.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\bin\Debug\net8.0\03. Command Pattern.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\bin\Debug\net8.0\03. Command Pattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\bin\Debug\net8.0\03. Command Pattern.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\refint\03. Command Pattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\03. Command Pattern.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\08. Reflection and Attributes\03. Command Pattern\03. Command Pattern\obj\Debug\net8.0\ref\03. Command Pattern.dll
