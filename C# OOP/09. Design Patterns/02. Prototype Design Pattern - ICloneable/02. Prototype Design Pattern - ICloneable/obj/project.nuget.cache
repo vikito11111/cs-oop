@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHyal2W7O4tqVYO2mpGhzjWRnzytlia9kljKEYF/rGkdPvcS7ghKyLg5FeqKRiMg9bZzoruh6XPpOTgv1R7wew==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\GITHUB - Repositories\\C#\\02. C# OOP\\09. Design Patterns\\02. Prototype Design Pattern - ICloneable\\02. Prototype Design Pattern - ICloneable\\02. Prototype Design Pattern - ICloneable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
