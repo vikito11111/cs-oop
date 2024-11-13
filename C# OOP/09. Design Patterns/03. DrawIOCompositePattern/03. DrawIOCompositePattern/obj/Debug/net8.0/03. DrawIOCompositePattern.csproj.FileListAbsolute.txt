@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\bin\Debug\net8.0\03. DrawIOCompositePattern.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\bin\Debug\net8.0\03. DrawIOCompositePattern.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\bin\Debug\net8.0\03. DrawIOCompositePattern.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\bin\Debug\net8.0\03. DrawIOCompositePattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\bin\Debug\net8.0\03. DrawIOCompositePattern.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\refint\03. DrawIOCompositePattern.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\03. DrawIOCompositePattern.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\03. DrawIOCompositePattern\03. DrawIOCompositePattern\obj\Debug\net8.0\ref\03. DrawIOCompositePattern.dll
