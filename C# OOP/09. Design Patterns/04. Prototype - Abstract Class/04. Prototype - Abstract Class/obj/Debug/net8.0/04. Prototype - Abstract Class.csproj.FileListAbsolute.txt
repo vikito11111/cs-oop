@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\bin\Debug\net8.0\04. Prototype - Abstract Class.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\bin\Debug\net8.0\04. Prototype - Abstract Class.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\bin\Debug\net8.0\04. Prototype - Abstract Class.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\bin\Debug\net8.0\04. Prototype - Abstract Class.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\bin\Debug\net8.0\04. Prototype - Abstract Class.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\refint\04. Prototype - Abstract Class.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\04. Prototype - Abstract Class.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\04. Prototype - Abstract Class\04. Prototype - Abstract Class\obj\Debug\net8.0\ref\04. Prototype - Abstract Class.dll
