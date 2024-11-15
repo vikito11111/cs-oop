@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\bin\Debug\net8.0\06. Template Pattern - Bakery.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\bin\Debug\net8.0\06. Template Pattern - Bakery.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\bin\Debug\net8.0\06. Template Pattern - Bakery.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\bin\Debug\net8.0\06. Template Pattern - Bakery.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\bin\Debug\net8.0\06. Template Pattern - Bakery.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\refint\06. Template Pattern - Bakery.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\06. Template Pattern - Bakery.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\06. Template Pattern - Bakery\06. Template Pattern - Bakery\obj\Debug\net8.0\ref\06. Template Pattern - Bakery.dll
