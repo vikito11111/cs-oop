@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\bin\Debug\net8.0\05. Composite Component.exe
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\bin\Debug\net8.0\05. Composite Component.deps.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\bin\Debug\net8.0\05. Composite Component.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\bin\Debug\net8.0\05. Composite Component.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\bin\Debug\net8.0\05. Composite Component.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\refint\05. Composite Component.dll
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.pdb
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\05. Composite Component.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\02. C# OOP\09. Design Patterns\05. Composite Component\05. Composite Component\obj\Debug\net8.0\ref\05. Composite Component.dll
